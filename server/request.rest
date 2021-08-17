@@ -1,0 +1,13 @@
+GET http://localhost:9000
+
+###
+
+POST http://localhost:9000/messages/new
+Content-Type: application/json
+
+{
+    "message" : "YOOO this Works",
+    "name" : "Navjot Singh",
+    "timestamp" : "I'm demo Time",
+    "received": false,
+}
