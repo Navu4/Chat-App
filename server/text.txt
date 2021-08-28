@@ -1,6 +1,0 @@
-EINMasskPrNffkyZ password 
-
-
-103.232.115.231   ip
-
-mongodb+srv://admin:<password>@cluster0.sjwpi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority   mongodbURL
